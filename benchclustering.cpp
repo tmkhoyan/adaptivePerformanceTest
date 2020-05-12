@@ -42,7 +42,7 @@
 #include "header/benchclustering.h"
 /*-------------------- settings benchmark          ------------------*/
 
-int NITER = 1; 			// benchmark iterations
+int NITER = 10; 			// benchmark iterations
 
 std::vector<int> clusterSizes 	= {5,   10,  50, 100, 500};
 std::vector<int> clusterPupulation = {50,  50,  50,  50,  50};
