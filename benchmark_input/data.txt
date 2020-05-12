@@ -1,0 +1,6 @@
+/Users/tmkhoyan/surfdrive/SMART-X PHD/CONFERENCE/SciTech2020/data_adaptive/CODE/auto_clustering_scitech2020_journalextra_bechmark/genbenchmark/data_out/data0_10.jpg
+/Users/tmkhoyan/surfdrive/SMART-X PHD/CONFERENCE/SciTech2020/data_adaptive/CODE/auto_clustering_scitech2020_journalextra_bechmark/genbenchmark/data_out/data1_100.jpg
+/Users/tmkhoyan/surfdrive/SMART-X PHD/CONFERENCE/SciTech2020/data_adaptive/CODE/auto_clustering_scitech2020_journalextra_bechmark/genbenchmark/data_out/data2_500.jpg
+/Users/tmkhoyan/surfdrive/SMART-X PHD/CONFERENCE/SciTech2020/data_adaptive/CODE/auto_clustering_scitech2020_journalextra_bechmark/genbenchmark/data_out/data2_1000.jpg
+/Users/tmkhoyan/surfdrive/SMART-X PHD/CONFERENCE/SciTech2020/data_adaptive/CODE/auto_clustering_scitech2020_journalextra_bechmark/genbenchmark/data_out/data3_1000.jpg
+/Users/tmkhoyan/surfdrive/SMART-X PHD/CONFERENCE/SciTech2020/data_adaptive/CODE/auto_clustering_scitech2020_journalextra_bechmark/genbenchmark/data_out/data4_5000.jpg
